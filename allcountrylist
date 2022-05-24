@@ -61,7 +61,7 @@
         "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Ukraine%20Channels.json"
       },
       "fields": {
-        "country_imageUrl": "Arebic",
+        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Arebic.jpeg?raw=true",
         "country_name": "UAE",
         "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Arabic%20Channels.json"
       },
