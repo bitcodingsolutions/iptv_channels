@@ -21,82 +21,9 @@
   "records": [
     {
       "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Arabic%20Channels.json"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Brasilian%20Channels.json"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Chinese%20Channels.json"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/English%20Channels.json"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/French%20Channels.json"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/German%20Channels.json"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Indian%20Channels.json"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Italian%20Channels.json"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Mexican%20Channels.json"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Netherlands%20Channels.json"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Portuguese%20Channels.json"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Russian%20Channels.json"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Spanish%20Channels.json"
-      }
-    },
-    {
-      "fields": {
+        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Turkish.png?raw=true",
+        "country_name": "Turkey",
         "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Turkish%20Channels.json"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/USA%20Channels.json"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Ukraine%20Channels.json"
       }
     }
   ]
