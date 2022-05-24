@@ -1,1 +1,1654 @@
-{"TV_Data": {"Channel_List": {"is_channel_list": true, "is_override": true, "thumb_width": 150, "all_Channels_Tab_Name": "", "main": {"id": 3, "name": "Spanish Channels", "sub_name": "Channels", "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-spain_748120.png", "sub": {"sub_1": {"id": 1, "mode": "video", "name": "La 1", "sub_name": "", "stream_video_url": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/la_1_es_img_8.png"}, "sub_2": {"id": 2, "mode": "video", "name": "La 1", "sub_name": "", "stream_video_url": "https://ztnr.rtve.es/ztnr/1688877.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/la_1_es_img_8.png"}, "sub_3": {"id": 3, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 10000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg", "thumbnail_url_original": ""}, "sub_4": {"id": 4, "mode": "video", "name": "La 1", "sub_name": "", "stream_video_url": "http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/la_1_es_img_8.png"}, "sub_5": {"id": 5, "mode": "video", "name": "La 2", "sub_name": "", "stream_video_url": "https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8", "thumbnail_url": ""}, "sub_6": {"id": 6, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 20000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png", "thumbnail_url_original": ""}, "sub_7": {"id": 7, "mode": "video", "name": "La 2", "sub_name": "", "stream_video_url": "https://ztnr.rtve.es/ztnr/1688885.m3u8", "thumbnail_url": ""}, "sub_8": {"id": 8, "mode": "video", "name": "LaOtra", "sub_name": "", "stream_video_url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8", "thumbnail_url": ""}, "sub_9": {"id": 9, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 30000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png", "thumbnail_url_original": ""}, "sub_10": {"id": 10, "mode": "video", "name": "TV3 Catalunya", "sub_name": "", "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8", "thumbnail_url": ""}, "sub_11": {"id": 11, "mode": "video", "name": "TV3 Catalunya", "sub_name": "", "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8", "thumbnail_url": ""}, "sub_12": {"id": 12, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 40000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png", "thumbnail_url_original": ""}, "sub_13": {"id": 13, "mode": "video", "name": "Televisio Girona", "sub_name": "", "stream_video_url": "http://ventdelnord.tv:8080/girona/directe.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/televisio_girona_img_2186.png"}, "sub_14": {"id": 14, "mode": "video", "name": "Televisio Girona", "sub_name": "", "stream_video_url": "http://ventdelnord.tv:8080/girona/directe.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/televisio_girona_img_2186.png"}, "sub_15": {"id": 15, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 50000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png", "thumbnail_url_original": ""}, "sub_16": {"id": 16, "mode": "video", "name": "Televisi\u00f3n de Galicia Europa", "sub_name": "", "stream_video_url": "https://europa-crtvg.flumotion.com/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/televisi\u00f3n_de_galicia_europa_img_3198.png"}, "sub_17": {"id": 17, "mode": "video", "name": "France 24 Espa\u00f1ol", "sub_name": "", "stream_video_url": "http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8", "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"}, "sub_18": {"id": 18, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 60000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png", "thumbnail_url_original": ""}, "sub_19": {"id": 19, "mode": "video", "name": "DW Espa\u00f1ol", "sub_name": "", "stream_video_url": "http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on", "thumbnail_url": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"}, "sub_20": {"id": 20, "mode": "video", "name": "DW Espa\u00f1ol", "sub_name": "", "stream_video_url": "http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8", "thumbnail_url": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"}, "sub_21": {"id": 21, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 70000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png", "thumbnail_url_original": ""}, "sub_22": {"id": 22, "mode": "video", "name": "DW Espa\u00f1ol", "sub_name": "", "stream_video_url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8", "thumbnail_url": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"}, "sub_23": {"id": 23, "mode": "video", "name": "DW Espa\u00f1ol", "sub_name": "", "stream_video_url": "http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8", "thumbnail_url": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"}, "sub_24": {"id": 24, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 10000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg", "thumbnail_url_original": ""}, "sub_25": {"id": 25, "mode": "video", "name": "324", "sub_name": "", "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8", "thumbnail_url": "https://i.imgur.com/CnIVW9o.jpg"}, "sub_26": {"id": 26, "mode": "video", "name": "324", "sub_name": "", "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8", "thumbnail_url": "https://i.imgur.com/CnIVW9o.jpg"}, "sub_27": {"id": 27, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 20000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png", "thumbnail_url_original": ""}, "sub_28": {"id": 28, "mode": "video", "name": "25 TV", "sub_name": "", "stream_video_url": "https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8", "thumbnail_url": ""}, "sub_29": {"id": 29, "mode": "video", "name": "101 Tele Antequera", "sub_name": "", "stream_video_url": "https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8", "thumbnail_url": ""}, "sub_30": {"id": 30, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 30000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png", "thumbnail_url_original": ""}, "sub_31": {"id": 31, "mode": "video", "name": "7 La Rioja", "sub_name": "", "stream_video_url": "https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8", "thumbnail_url": ""}, "sub_32": {"id": 32, "mode": "video", "name": "Popular TV Cantabria", "sub_name": "", "stream_video_url": "https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/popular_tv_cantabria_img_2173.png"}, "sub_33": {"id": 33, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 40000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png", "thumbnail_url_original": ""}, "sub_34": {"id": 34, "mode": "video", "name": "Canal Extremadura", "sub_name": "", "stream_video_url": "https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8", "thumbnail_url": ""}, "sub_35": {"id": 35, "mode": "video", "name": "Canal Sur Andaluc\u00eda", "sub_name": "", "stream_video_url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ/live", "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/150px-Canal_Sur_2_-_2017_logo.png"}, "sub_36": {"id": 36, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 50000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png", "thumbnail_url_original": ""}, "sub_37": {"id": 37, "mode": "video", "name": "Canal Sur Andaluc\u00eda", "sub_name": "", "stream_video_url": "https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8", "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/150px-Canal_Sur_2_-_2017_logo.png"}, "sub_38": {"id": 38, "mode": "video", "name": "CCMA Exclusiu 1", "sub_name": "", "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:oca1_web/playlist_DVR.m3u8", "thumbnail_url": "https://blog.lcotiv.com/i/22318210523.png"}, "sub_39": {"id": 39, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 60000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png", "thumbnail_url_original": ""}, "sub_40": {"id": 40, "mode": "video", "name": "Levante TV", "sub_name": "", "stream_video_url": "https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8", "thumbnail_url": ""}, "sub_41": {"id": 41, "mode": "video", "name": "Pequeradio", "sub_name": "", "stream_video_url": "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8", "thumbnail_url": ""}, "sub_42": {"id": 42, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 70000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png", "thumbnail_url_original": ""}, "sub_43": {"id": 43, "mode": "video", "name": "Logos TV", "sub_name": "", "stream_video_url": "https://streamer1.streamhost.org/salive/logosH/master.m3u8", "thumbnail_url": ""}, "sub_44": {"id": 44, "mode": "video", "name": "Sal Televisi\u00f3n", "sub_name": "", "stream_video_url": "https://www.tdtchannels.com/stream/saltv.m3u8", "thumbnail_url": ""}, "sub_45": {"id": 45, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 10000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg", "thumbnail_url_original": ""}, "sub_46": {"id": 46, "mode": "video", "name": "Alcarria TV", "sub_name": "", "stream_video_url": "http://217.182.77.27/live/alcarriatv-livestream.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/alcarria_tv_img_2129.png"}, "sub_47": {"id": 47, "mode": "video", "name": "Alcarria TV", "sub_name": "", "stream_video_url": "http://217.182.77.27/live/alcarriatv-livestream.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/alcarria_tv_img_2129.png"}, "sub_48": {"id": 48, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 20000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png", "thumbnail_url_original": ""}, "sub_49": {"id": 49, "mode": "video", "name": "ETB 2", "sub_name": "", "stream_video_url": "http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/etb_2_img_2160.png"}, "sub_50": {"id": 50, "mode": "video", "name": "ETB 2", "sub_name": "", "stream_video_url": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/etb_2_img_2160.png"}, "sub_51": {"id": 51, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 30000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png", "thumbnail_url_original": ""}, "sub_52": {"id": 52, "mode": "video", "name": "Galicia TV Am\u00e9rica", "sub_name": "", "stream_video_url": "http://america-crtvg.flumotion.com/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/televisi\u00f3n_de_galicia_europa_img_3198.png"}, "sub_53": {"id": 53, "mode": "video", "name": "La 8 Avila", "sub_name": "", "stream_video_url": "https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8", "thumbnail_url": ""}, "sub_54": {"id": 54, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 40000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png", "thumbnail_url_original": ""}, "sub_55": {"id": 55, "mode": "video", "name": "La 8 Burgos", "sub_name": "", "stream_video_url": "https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8", "thumbnail_url": ""}, "sub_56": {"id": 56, "mode": "video", "name": "La 8 Leon", "sub_name": "", "stream_video_url": "https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8", "thumbnail_url": ""}, "sub_57": {"id": 57, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 50000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png", "thumbnail_url_original": ""}, "sub_58": {"id": 58, "mode": "video", "name": "La 8 Salamanca", "sub_name": "", "stream_video_url": "https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8", "thumbnail_url": ""}, "sub_59": {"id": 59, "mode": "video", "name": "La 8 Segovia", "sub_name": "", "stream_video_url": "https://cdnlive.shooowit.net/la8segovialive/smil:streamswitchingchannel.smil/playlist.m3u8", "thumbnail_url": ""}, "sub_60": {"id": 60, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 60000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png", "thumbnail_url_original": ""}, "sub_61": {"id": 61, "mode": "video", "name": "La 8 Valladolid", "sub_name": "", "stream_video_url": "https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8", "thumbnail_url": ""}, "sub_62": {"id": 62, "mode": "video", "name": "La 8 Zamora", "sub_name": "", "stream_video_url": "https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8", "thumbnail_url": ""}, "sub_63": {"id": 63, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 70000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png", "thumbnail_url_original": ""}, "sub_64": {"id": 64, "mode": "video", "name": "ETB 1", "sub_name": "", "stream_video_url": "http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/etb_1_img_2159.png"}, "sub_65": {"id": 65, "mode": "video", "name": "ETB 1", "sub_name": "", "stream_video_url": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/etb_1_img_2159.png"}, "sub_66": {"id": 66, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 10000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg", "thumbnail_url_original": ""}, "sub_67": {"id": 67, "mode": "video", "name": "Interalmeria TV", "sub_name": "", "stream_video_url": "http://interalmeria.tv/directo/live.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/interalmeria_tv_img_2165.png"}, "sub_68": {"id": 68, "mode": "video", "name": "Interalmeria TV", "sub_name": "", "stream_video_url": "https://interalmeria.tv/directo/live.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/interalmeria_tv_img_2165.png"}, "sub_69": {"id": 69, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 20000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png", "thumbnail_url_original": ""}, "sub_70": {"id": 70, "mode": "video", "name": "Onda C\u00e1diz", "sub_name": "", "stream_video_url": "http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8", "thumbnail_url": "https://www.phonostar.de/images/auto_created/Onda_Cadiz2184x184.png"}, "sub_71": {"id": 71, "mode": "video", "name": "Onda C\u00e1diz", "sub_name": "", "stream_video_url": "https://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8", "thumbnail_url": "https://www.phonostar.de/images/auto_created/Onda_Cadiz2184x184.png"}, "sub_72": {"id": 72, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 30000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png", "thumbnail_url_original": ""}, "sub_73": {"id": 73, "mode": "video", "name": "Canal 25 Barbastro", "sub_name": "", "stream_video_url": "http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_25_barbastro_img_2136.png"}, "sub_74": {"id": 74, "mode": "video", "name": "Canal 25 Barbastro", "sub_name": "", "stream_video_url": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_25_barbastro_img_2136.png"}, "sub_75": {"id": 75, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 40000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png", "thumbnail_url_original": ""}, "sub_76": {"id": 76, "mode": "video", "name": "TV Galicia ES", "sub_name": "", "stream_video_url": "http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_galicia_es_img_317.png"}, "sub_77": {"id": 77, "mode": "video", "name": "TV Galicia ES", "sub_name": "", "stream_video_url": "http://europa-crtvg.flumotion.com/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_galicia_es_img_317.png"}, "sub_78": {"id": 78, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 50000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png", "thumbnail_url_original": ""}, "sub_79": {"id": 79, "mode": "video", "name": "Alacanti TV", "sub_name": "", "stream_video_url": "http://5.39.65.105/hls/alacantixa.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/alacanti_tv_img_2128.png"}, "sub_80": {"id": 80, "mode": "video", "name": "Alacanti TV", "sub_name": "", "stream_video_url": "http://5.39.65.105/hls/alacantixa.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/alacanti_tv_img_2128.png"}, "sub_81": {"id": 81, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 60000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png", "thumbnail_url_original": ""}, "sub_82": {"id": 82, "mode": "video", "name": "La7", "sub_name": "", "stream_video_url": "http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/la7_img_1979.png"}, "sub_83": {"id": 83, "mode": "video", "name": "La7", "sub_name": "", "stream_video_url": "https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/la7_img_1979.png"}, "sub_84": {"id": 84, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 70000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png", "thumbnail_url_original": ""}, "sub_85": {"id": 85, "mode": "video", "name": "TVG Musigal", "sub_name": "", "stream_video_url": "http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tvg_musigal_img_2198.png"}, "sub_86": {"id": 86, "mode": "video", "name": "TVG Musigal", "sub_name": "", "stream_video_url": "https://musigal-crtvg.flumotion.com/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tvg_musigal_img_2198.png"}, "sub_87": {"id": 87, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 10000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg", "thumbnail_url_original": ""}, "sub_88": {"id": 88, "mode": "video", "name": "Canal 4 Mancha Centro", "sub_name": "", "stream_video_url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_4_mancha_centro_img_2138.png"}, "sub_89": {"id": 89, "mode": "video", "name": "Canal 4 Mancha Centro", "sub_name": "", "stream_video_url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_4_mancha_centro_img_2138.png"}, "sub_90": {"id": 90, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 20000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png", "thumbnail_url_original": ""}, "sub_91": {"id": 91, "mode": "video", "name": "Popular TV Melilla", "sub_name": "", "stream_video_url": "https://5940924978228.streamlock.net/8009/8009/chunklist_w922827150.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/popular_tv_melilla_img_2174.png"}, "sub_92": {"id": 92, "mode": "video", "name": "Popular TV Melilla", "sub_name": "", "stream_video_url": "https://5940924978228.streamlock.net/8009/8009/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/popular_tv_melilla_img_2174.png"}, "sub_93": {"id": 93, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 30000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png", "thumbnail_url_original": ""}, "sub_94": {"id": 94, "mode": "video", "name": "Canal 2000 La Solana", "sub_name": "", "stream_video_url": "http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8", "thumbnail_url": ""}, "sub_95": {"id": 95, "mode": "video", "name": "Canal 10 Empord\u00e0", "sub_name": "", "stream_video_url": "http://ventdelnord.tv:8080/escala/directe.m3u8", "thumbnail_url": ""}, "sub_96": {"id": 96, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 40000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png", "thumbnail_url_original": ""}, "sub_97": {"id": 97, "mode": "video", "name": "Bail\u00e9n TV", "sub_name": "", "stream_video_url": "http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8", "thumbnail_url": ""}, "sub_98": {"id": 98, "mode": "video", "name": "Arag\u00f3n Radio", "sub_name": "", "stream_video_url": "https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8", "thumbnail_url": ""}, "sub_99": {"id": 99, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 50000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png", "thumbnail_url_original": ""}, "sub_100": {"id": 100, "mode": "video", "name": "+24", "sub_name": "", "stream_video_url": "https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586403/master.m3u8", "thumbnail_url": ""}, "sub_101": {"id": 101, "mode": "video", "name": "+24", "sub_name": "", "stream_video_url": "https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586404/master.m3u8", "thumbnail_url": ""}, "sub_102": {"id": 102, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 60000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png", "thumbnail_url_original": ""}, "sub_103": {"id": 103, "mode": "video", "name": "Visi\u00f3n 6 TV", "sub_name": "", "stream_video_url": "https://secure3.todostreaming.es/live/visionseis-livestream.m3u8", "thumbnail_url": ""}, "sub_104": {"id": 104, "mode": "video", "name": "Ibiza Global TV", "sub_name": "", "stream_video_url": "https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8", "thumbnail_url": ""}, "sub_105": {"id": 105, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 70000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png", "thumbnail_url_original": ""}, "sub_106": {"id": 106, "mode": "video", "name": "HQM Rock", "sub_name": "", "stream_video_url": "https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8", "thumbnail_url": ""}, "sub_107": {"id": 107, "mode": "video", "name": "HQM Remember", "sub_name": "", "stream_video_url": "https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8", "thumbnail_url": ""}, "sub_108": {"id": 108, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 10000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg", "thumbnail_url_original": ""}, "sub_109": {"id": 109, "mode": "video", "name": "HQM Pop", "sub_name": "", "stream_video_url": "https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8", "thumbnail_url": ""}, "sub_110": {"id": 110, "mode": "video", "name": "HQM Latin", "sub_name": "", "stream_video_url": "https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8", "thumbnail_url": ""}, "sub_111": {"id": 111, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 20000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png", "thumbnail_url_original": ""}, "sub_112": {"id": 112, "mode": "video", "name": "HQM Jazz", "sub_name": "", "stream_video_url": "https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8", "thumbnail_url": ""}, "sub_113": {"id": 113, "mode": "video", "name": "HQM Hits", "sub_name": "", "stream_video_url": "https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8", "thumbnail_url": ""}, "sub_114": {"id": 114, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 30000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png", "thumbnail_url_original": ""}, "sub_115": {"id": 115, "mode": "video", "name": "HQM Gym", "sub_name": "", "stream_video_url": "https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8", "thumbnail_url": ""}, "sub_116": {"id": 116, "mode": "video", "name": "HQM Folk", "sub_name": "", "stream_video_url": "https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8", "thumbnail_url": ""}, "sub_117": {"id": 117, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 40000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png", "thumbnail_url_original": ""}, "sub_118": {"id": 118, "mode": "video", "name": "HQM Classic", "sub_name": "", "stream_video_url": "https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8", "thumbnail_url": ""}, "sub_119": {"id": 119, "mode": "video", "name": "HQM Chill Out", "sub_name": "", "stream_video_url": "https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8", "thumbnail_url": ""}, "sub_120": {"id": 120, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 50000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png", "thumbnail_url_original": ""}, "sub_121": {"id": 121, "mode": "video", "name": "HQM Baladas", "sub_name": "", "stream_video_url": "https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8", "thumbnail_url": ""}, "sub_122": {"id": 122, "mode": "video", "name": "HQM Arabic", "sub_name": "", "stream_video_url": "https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8", "thumbnail_url": ""}, "sub_123": {"id": 123, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 60000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png", "thumbnail_url_original": ""}, "sub_124": {"id": 124, "mode": "video", "name": "Fibracat TV", "sub_name": "", "stream_video_url": "https://cdn02.fibracat.cat/fibracattv/index.m3u8", "thumbnail_url": ""}, "sub_125": {"id": 125, "mode": "video", "name": "ETB Eventos 1", "sub_name": "", "stream_video_url": "https://etbvnogeo-lh.akamaihd.net/i/OCA1HD_1@748519/master.m3u8", "thumbnail_url": ""}, "sub_126": {"id": 126, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 70000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png", "thumbnail_url_original": ""}, "sub_127": {"id": 127, "mode": "video", "name": "Canal 56", "sub_name": "", "stream_video_url": "https://cdn01.yowi.tv/VI76V4AZS4/live-1000.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_56_img_2139.png"}, "sub_128": {"id": 128, "mode": "video", "name": "Canal 56", "sub_name": "", "stream_video_url": "https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_56_img_2139.png"}, "sub_129": {"id": 129, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 10000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg", "thumbnail_url_original": ""}, "sub_130": {"id": 130, "mode": "video", "name": "El Futuro en tu mano", "sub_name": "", "stream_video_url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZSw3jfFZo_8I9BHSMlT2Fg/live", "thumbnail_url": ""}, "sub_131": {"id": 131, "mode": "video", "name": "El Futuro en tu mano", "sub_name": "", "stream_video_url": "https://limited24.todostreaming.es/live/renjillo-livestream.m3u8", "thumbnail_url": ""}, "sub_132": {"id": 132, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 20000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png", "thumbnail_url_original": ""}, "sub_133": {"id": 133, "mode": "video", "name": "Diez TV", "sub_name": "", "stream_video_url": "https://streaming.cloud.innovasur.es/mmj/index.m3u8", "thumbnail_url": ""}, "sub_134": {"id": 134, "mode": "video", "name": "Cuatro 4 TV Vall Uxa", "sub_name": "", "stream_video_url": "https://limited09.todostreaming.es/live/tarson-livestream.m3u8", "thumbnail_url": ""}, "sub_135": {"id": 135, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 30000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png", "thumbnail_url_original": ""}, "sub_136": {"id": 136, "mode": "video", "name": "Congreso de los Diputados 5", "sub_name": "", "stream_video_url": "https://congresodirecto-f.akamaihd.net/i/congreso5_1@51923/master.m3u8", "thumbnail_url": ""}, "sub_137": {"id": 137, "mode": "video", "name": "Congreso de los Diputados 4", "sub_name": "", "stream_video_url": "https://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/master.m3u8", "thumbnail_url": ""}, "sub_138": {"id": 138, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 40000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png", "thumbnail_url_original": ""}, "sub_139": {"id": 139, "mode": "video", "name": "Congreso de los Diputados 2", "sub_name": "", "stream_video_url": "https://congresodirecto-f.akamaihd.net/i/congreso2_1@72033/master.m3u8", "thumbnail_url": ""}, "sub_140": {"id": 140, "mode": "video", "name": "Radio Televisi\u00f3n Melilla", "sub_name": "", "stream_video_url": "https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8", "thumbnail_url": ""}, "sub_141": {"id": 141, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 50000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png", "thumbnail_url_original": ""}, "sub_142": {"id": 142, "mode": "video", "name": "Punt 3 Vall Uix\u00f3", "sub_name": "", "stream_video_url": "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8", "thumbnail_url": ""}, "sub_143": {"id": 143, "mode": "video", "name": "Platzi TV", "sub_name": "", "stream_video_url": "https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8", "thumbnail_url": ""}, "sub_144": {"id": 144, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 60000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png", "thumbnail_url_original": ""}, "sub_145": {"id": 145, "mode": "video", "name": "Canal M\u00e1laga", "sub_name": "", "stream_video_url": "http://canalmalaga-tv-live.flumotion.com/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"}, "sub_146": {"id": 146, "mode": "video", "name": "Canal M\u00e1laga", "sub_name": "", "stream_video_url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"}, "sub_147": {"id": 147, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 70000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png", "thumbnail_url_original": ""}, "sub_148": {"id": 148, "mode": "video", "name": "Noroeste TV", "sub_name": "", "stream_video_url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8", "thumbnail_url": ""}, "sub_149": {"id": 149, "mode": "video", "name": "Navarra TV", "sub_name": "", "stream_video_url": "https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8", "thumbnail_url": ""}, "sub_150": {"id": 150, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 10000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg", "thumbnail_url_original": ""}, "sub_151": {"id": 151, "mode": "video", "name": "Maestrat TV", "sub_name": "", "stream_video_url": "https://stream.maestrat.tv/hls/stream.m3u8", "thumbnail_url": ""}, "sub_152": {"id": 152, "mode": "video", "name": "M95 Televisi\u00f3n Marbella", "sub_name": "", "stream_video_url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8", "thumbnail_url": ""}, "sub_153": {"id": 153, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 20000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png", "thumbnail_url_original": ""}, "sub_154": {"id": 154, "mode": "video", "name": "Cadena Elite", "sub_name": "", "stream_video_url": "https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/cadena_elite_img_2135.png"}, "sub_155": {"id": 155, "mode": "video", "name": "Cadena Elite", "sub_name": "", "stream_video_url": "https://cloudvideo.servers10.com:8081/8004/index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/cadena_elite_img_2135.png"}, "sub_156": {"id": 156, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 30000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png", "thumbnail_url_original": ""}, "sub_157": {"id": 157, "mode": "video", "name": "La Urban TV", "sub_name": "", "stream_video_url": "https://urbanrevolution.es:8443/live/TV/playlist.m3u8", "thumbnail_url": ""}, "sub_158": {"id": 158, "mode": "video", "name": "Distrito TV", "sub_name": "", "stream_video_url": "https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/distrito_tv_img_2151.png"}, "sub_159": {"id": 159, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 40000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png", "thumbnail_url_original": ""}, "sub_160": {"id": 160, "mode": "video", "name": "Im\u00e1s TV", "sub_name": "", "stream_video_url": "https://secure3.todostreaming.es/live/imastv-livestream.m3u8", "thumbnail_url": ""}, "sub_161": {"id": 161, "mode": "video", "name": "Solidaria TV", "sub_name": "", "stream_video_url": "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8", "thumbnail_url": ""}, "sub_162": {"id": 162, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 50000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png", "thumbnail_url_original": ""}, "sub_163": {"id": 163, "mode": "video", "name": "RTVC", "sub_name": "", "stream_video_url": "https://rtvc-live1-rm.flumotion.com/playlist.m3u8", "thumbnail_url": ""}, "sub_164": {"id": 164, "mode": "video", "name": "RTV Vida", "sub_name": "", "stream_video_url": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8", "thumbnail_url": ""}, "sub_165": {"id": 165, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 60000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png", "thumbnail_url_original": ""}, "sub_166": {"id": 166, "mode": "video", "name": "teve.cat", "sub_name": "", "stream_video_url": "https://limited35.todostreaming.es/live/mitjans-livestream.m3u8", "thumbnail_url": ""}, "sub_167": {"id": 167, "mode": "video", "name": "Trece TV", "sub_name": "", "stream_video_url": "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8", "thumbnail_url": ""}, "sub_168": {"id": 168, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 70000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png", "thumbnail_url_original": ""}, "sub_169": {"id": 169, "mode": "video", "name": "tvG2", "sub_name": "", "stream_video_url": "https://events3-crtvg.flumotion.com/playlist.m3u8", "thumbnail_url": ""}, "sub_170": {"id": 170, "mode": "video", "name": "Canal San Roque", "sub_name": "", "stream_video_url": "http://common01.todostreaming.es/live/sanroque-livestream.m3u8", "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_san_roque_img_2142.png"}, "sub_171": {"id": 171, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 10000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg", "thumbnail_url_original": ""}, "sub_172": {"id": 172, "mode": "video", "name": "TVM C\u00f3rdoba", "sub_name": "", "stream_video_url": "http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8", "thumbnail_url": ""}, "sub_173": {"id": 173, "mode": "video", "name": "TVM C\u00f3rdoba", "sub_name": "", "stream_video_url": "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8", "thumbnail_url": ""}, "sub_174": {"id": 174, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 20000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png", "thumbnail_url_original": ""}, "sub_175": {"id": 175, "mode": "video", "name": "Sophia TV", "sub_name": "", "stream_video_url": "https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8", "thumbnail_url": "https://i.imgur.com/jyMedaF.png"}, "sub_176": {"id": 176, "mode": "video", "name": "Sophia TV", "sub_name": "", "stream_video_url": "https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8", "thumbnail_url": "https://i.imgur.com/jyMedaF.png"}, "sub_177": {"id": 177, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 30000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png", "thumbnail_url_original": ""}, "sub_178": {"id": 178, "mode": "video", "name": "Sophia TV", "sub_name": "", "stream_video_url": "https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8", "thumbnail_url": "https://i.imgur.com/jyMedaF.png"}, "sub_179": {"id": 179, "mode": "video", "name": "Sophia TV", "sub_name": "", "stream_video_url": "https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8", "thumbnail_url": "https://i.imgur.com/jyMedaF.png"}, "sub_180": {"id": 180, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 40000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png", "thumbnail_url_original": ""}, "sub_181": {"id": 181, "mode": "video", "name": "Sophia TV", "sub_name": "", "stream_video_url": "https://www.onairport.live/sophiatv-it-live/livestream/playlist.m3u8", "thumbnail_url": "https://i.imgur.com/jyMedaF.png"}, "sub_182": {"id": 182, "mode": "video", "name": "Sophia TV", "sub_name": "", "stream_video_url": "https://www.onairport.live/sophiatv-es-live/livestream/master.m3u8", "thumbnail_url": "https://i.imgur.com/jyMedaF.png"}}}}}}
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 3,
+        "name": "Spanish Channels",
+        "sub_name": "Channels",
+        "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-spain_748120.png",
+        "sub": {
+          "sub_1": {
+            "id": 1,
+            "mode": "video",
+            "name": "La 1",
+            "sub_name": "",
+            "stream_video_url": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/la_1_es_img_8.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "video",
+            "name": "La 1",
+            "sub_name": "",
+            "stream_video_url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/la_1_es_img_8.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "video",
+            "name": "La 1",
+            "sub_name": "",
+            "stream_video_url": "http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/la_1_es_img_8.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "video",
+            "name": "La 2",
+            "sub_name": "",
+            "stream_video_url": "https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "video",
+            "name": "La 2",
+            "sub_name": "",
+            "stream_video_url": "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "video",
+            "name": "LaOtra",
+            "sub_name": "",
+            "stream_video_url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "video",
+            "name": "TV3 Catalunya",
+            "sub_name": "",
+            "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "video",
+            "name": "TV3 Catalunya",
+            "sub_name": "",
+            "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "video",
+            "name": "Televisio Girona",
+            "sub_name": "",
+            "stream_video_url": "http://ventdelnord.tv:8080/girona/directe.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/televisio_girona_img_2186.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "video",
+            "name": "Televisio Girona",
+            "sub_name": "",
+            "stream_video_url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/televisio_girona_img_2186.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "video",
+            "name": "Televisión de Galicia Europa",
+            "sub_name": "",
+            "stream_video_url": "https://europa-crtvg.flumotion.com/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/televisión_de_galicia_europa_img_3198.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "video",
+            "name": "France 24 Español",
+            "sub_name": "",
+            "stream_video_url": "http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "video",
+            "name": "DW Español",
+            "sub_name": "",
+            "stream_video_url": "http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on",
+            "thumbnail_url": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "video",
+            "name": "DW Español",
+            "sub_name": "",
+            "stream_video_url": "http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "video",
+            "name": "DW Español",
+            "sub_name": "",
+            "stream_video_url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "video",
+            "name": "DW Español",
+            "sub_name": "",
+            "stream_video_url": "http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "video",
+            "name": "324",
+            "sub_name": "",
+            "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8",
+            "thumbnail_url": "https://i.imgur.com/CnIVW9o.jpg"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "video",
+            "name": "324",
+            "sub_name": "",
+            "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/CnIVW9o.jpg"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "video",
+            "name": "25 TV",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "video",
+            "name": "101 Tele Antequera",
+            "sub_name": "",
+            "stream_video_url": "https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "video",
+            "name": "7 La Rioja",
+            "sub_name": "",
+            "stream_video_url": "https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "video",
+            "name": "Popular TV Cantabria",
+            "sub_name": "",
+            "stream_video_url": "https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/popular_tv_cantabria_img_2173.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "video",
+            "name": "Canal Extremadura",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "video",
+            "name": "Canal Sur Andalucía",
+            "sub_name": "",
+            "stream_video_url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ/live",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/150px-Canal_Sur_2_-_2017_logo.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "video",
+            "name": "Canal Sur Andalucía",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/150px-Canal_Sur_2_-_2017_logo.png"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "video",
+            "name": "CCMA Exclusiu 1",
+            "sub_name": "",
+            "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:oca1_web/playlist_DVR.m3u8",
+            "thumbnail_url": "https://blog.lcotiv.com/i/22318210523.png"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_40": {
+            "id": 40,
+            "mode": "video",
+            "name": "Levante TV",
+            "sub_name": "",
+            "stream_video_url": "https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_41": {
+            "id": 41,
+            "mode": "video",
+            "name": "Pequeradio",
+            "sub_name": "",
+            "stream_video_url": "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_42": {
+            "id": 42,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_43": {
+            "id": 43,
+            "mode": "video",
+            "name": "Logos TV",
+            "sub_name": "",
+            "stream_video_url": "https://streamer1.streamhost.org/salive/logosH/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_44": {
+            "id": 44,
+            "mode": "video",
+            "name": "Sal Televisión",
+            "sub_name": "",
+            "stream_video_url": "https://www.tdtchannels.com/stream/saltv.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_45": {
+            "id": 45,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_46": {
+            "id": 46,
+            "mode": "video",
+            "name": "Alcarria TV",
+            "sub_name": "",
+            "stream_video_url": "http://217.182.77.27/live/alcarriatv-livestream.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/alcarria_tv_img_2129.png"
+          },
+          "sub_47": {
+            "id": 47,
+            "mode": "video",
+            "name": "Alcarria TV",
+            "sub_name": "",
+            "stream_video_url": "http://217.182.77.27/live/alcarriatv-livestream.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/alcarria_tv_img_2129.png"
+          },
+          "sub_48": {
+            "id": 48,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_49": {
+            "id": 49,
+            "mode": "video",
+            "name": "ETB 2",
+            "sub_name": "",
+            "stream_video_url": "http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/etb_2_img_2160.png"
+          },
+          "sub_50": {
+            "id": 50,
+            "mode": "video",
+            "name": "ETB 2",
+            "sub_name": "",
+            "stream_video_url": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/etb_2_img_2160.png"
+          },
+          "sub_51": {
+            "id": 51,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_52": {
+            "id": 52,
+            "mode": "video",
+            "name": "Galicia TV América",
+            "sub_name": "",
+            "stream_video_url": "http://america-crtvg.flumotion.com/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/televisión_de_galicia_europa_img_3198.png"
+          },
+          "sub_53": {
+            "id": 53,
+            "mode": "video",
+            "name": "La 8 Avila",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_54": {
+            "id": 54,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_55": {
+            "id": 55,
+            "mode": "video",
+            "name": "La 8 Burgos",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_56": {
+            "id": 56,
+            "mode": "video",
+            "name": "La 8 Leon",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_57": {
+            "id": 57,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_58": {
+            "id": 58,
+            "mode": "video",
+            "name": "La 8 Salamanca",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_59": {
+            "id": 59,
+            "mode": "video",
+            "name": "La 8 Segovia",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/la8segovialive/smil:streamswitchingchannel.smil/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_60": {
+            "id": 60,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_61": {
+            "id": 61,
+            "mode": "video",
+            "name": "La 8 Valladolid",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_62": {
+            "id": 62,
+            "mode": "video",
+            "name": "La 8 Zamora",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_63": {
+            "id": 63,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_64": {
+            "id": 64,
+            "mode": "video",
+            "name": "ETB 1",
+            "sub_name": "",
+            "stream_video_url": "http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/etb_1_img_2159.png"
+          },
+          "sub_65": {
+            "id": 65,
+            "mode": "video",
+            "name": "ETB 1",
+            "sub_name": "",
+            "stream_video_url": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/etb_1_img_2159.png"
+          },
+          "sub_66": {
+            "id": 66,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_67": {
+            "id": 67,
+            "mode": "video",
+            "name": "Interalmeria TV",
+            "sub_name": "",
+            "stream_video_url": "http://interalmeria.tv/directo/live.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/interalmeria_tv_img_2165.png"
+          },
+          "sub_68": {
+            "id": 68,
+            "mode": "video",
+            "name": "Interalmeria TV",
+            "sub_name": "",
+            "stream_video_url": "https://interalmeria.tv/directo/live.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/interalmeria_tv_img_2165.png"
+          },
+          "sub_69": {
+            "id": 69,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_70": {
+            "id": 70,
+            "mode": "video",
+            "name": "Onda Cádiz",
+            "sub_name": "",
+            "stream_video_url": "http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8",
+            "thumbnail_url": "https://www.phonostar.de/images/auto_created/Onda_Cadiz2184x184.png"
+          },
+          "sub_71": {
+            "id": 71,
+            "mode": "video",
+            "name": "Onda Cádiz",
+            "sub_name": "",
+            "stream_video_url": "https://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8",
+            "thumbnail_url": "https://www.phonostar.de/images/auto_created/Onda_Cadiz2184x184.png"
+          },
+          "sub_72": {
+            "id": 72,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_73": {
+            "id": 73,
+            "mode": "video",
+            "name": "Canal 25 Barbastro",
+            "sub_name": "",
+            "stream_video_url": "http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_25_barbastro_img_2136.png"
+          },
+          "sub_74": {
+            "id": 74,
+            "mode": "video",
+            "name": "Canal 25 Barbastro",
+            "sub_name": "",
+            "stream_video_url": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_25_barbastro_img_2136.png"
+          },
+          "sub_75": {
+            "id": 75,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_76": {
+            "id": 76,
+            "mode": "video",
+            "name": "TV Galicia ES",
+            "sub_name": "",
+            "stream_video_url": "http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_galicia_es_img_317.png"
+          },
+          "sub_77": {
+            "id": 77,
+            "mode": "video",
+            "name": "TV Galicia ES",
+            "sub_name": "",
+            "stream_video_url": "http://europa-crtvg.flumotion.com/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_galicia_es_img_317.png"
+          },
+          "sub_78": {
+            "id": 78,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_79": {
+            "id": 79,
+            "mode": "video",
+            "name": "Alacanti TV",
+            "sub_name": "",
+            "stream_video_url": "http://5.39.65.105/hls/alacantixa.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/alacanti_tv_img_2128.png"
+          },
+          "sub_80": {
+            "id": 80,
+            "mode": "video",
+            "name": "Alacanti TV",
+            "sub_name": "",
+            "stream_video_url": "http://5.39.65.105/hls/alacantixa.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/alacanti_tv_img_2128.png"
+          },
+          "sub_81": {
+            "id": 81,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_82": {
+            "id": 82,
+            "mode": "video",
+            "name": "La7",
+            "sub_name": "",
+            "stream_video_url": "http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/la7_img_1979.png"
+          },
+          "sub_83": {
+            "id": 83,
+            "mode": "video",
+            "name": "La7",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/la7_img_1979.png"
+          },
+          "sub_84": {
+            "id": 84,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_85": {
+            "id": 85,
+            "mode": "video",
+            "name": "TVG Musigal",
+            "sub_name": "",
+            "stream_video_url": "http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tvg_musigal_img_2198.png"
+          },
+          "sub_86": {
+            "id": 86,
+            "mode": "video",
+            "name": "TVG Musigal",
+            "sub_name": "",
+            "stream_video_url": "https://musigal-crtvg.flumotion.com/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tvg_musigal_img_2198.png"
+          },
+          "sub_87": {
+            "id": 87,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_88": {
+            "id": 88,
+            "mode": "video",
+            "name": "Canal 4 Mancha Centro",
+            "sub_name": "",
+            "stream_video_url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_4_mancha_centro_img_2138.png"
+          },
+          "sub_89": {
+            "id": 89,
+            "mode": "video",
+            "name": "Canal 4 Mancha Centro",
+            "sub_name": "",
+            "stream_video_url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_4_mancha_centro_img_2138.png"
+          },
+          "sub_90": {
+            "id": 90,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_91": {
+            "id": 91,
+            "mode": "video",
+            "name": "Popular TV Melilla",
+            "sub_name": "",
+            "stream_video_url": "https://5940924978228.streamlock.net/8009/8009/chunklist_w922827150.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/popular_tv_melilla_img_2174.png"
+          },
+          "sub_92": {
+            "id": 92,
+            "mode": "video",
+            "name": "Popular TV Melilla",
+            "sub_name": "",
+            "stream_video_url": "https://5940924978228.streamlock.net/8009/8009/master.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/popular_tv_melilla_img_2174.png"
+          },
+          "sub_93": {
+            "id": 93,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_94": {
+            "id": 94,
+            "mode": "video",
+            "name": "Canal 2000 La Solana",
+            "sub_name": "",
+            "stream_video_url": "http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_95": {
+            "id": 95,
+            "mode": "video",
+            "name": "Canal 10 Empordà",
+            "sub_name": "",
+            "stream_video_url": "http://ventdelnord.tv:8080/escala/directe.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_96": {
+            "id": 96,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_97": {
+            "id": 97,
+            "mode": "video",
+            "name": "Bailén TV",
+            "sub_name": "",
+            "stream_video_url": "http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_98": {
+            "id": 98,
+            "mode": "video",
+            "name": "Aragón Radio",
+            "sub_name": "",
+            "stream_video_url": "https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_99": {
+            "id": 99,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_100": {
+            "id": 100,
+            "mode": "video",
+            "name": "+24",
+            "sub_name": "",
+            "stream_video_url": "https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586403/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_101": {
+            "id": 101,
+            "mode": "video",
+            "name": "+24",
+            "sub_name": "",
+            "stream_video_url": "https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586404/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_102": {
+            "id": 102,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_103": {
+            "id": 103,
+            "mode": "video",
+            "name": "Visión 6 TV",
+            "sub_name": "",
+            "stream_video_url": "https://secure3.todostreaming.es/live/visionseis-livestream.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_104": {
+            "id": 104,
+            "mode": "video",
+            "name": "Ibiza Global TV",
+            "sub_name": "",
+            "stream_video_url": "https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_105": {
+            "id": 105,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_106": {
+            "id": 106,
+            "mode": "video",
+            "name": "HQM Rock",
+            "sub_name": "",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_107": {
+            "id": 107,
+            "mode": "video",
+            "name": "HQM Remember",
+            "sub_name": "",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_108": {
+            "id": 108,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_109": {
+            "id": 109,
+            "mode": "video",
+            "name": "HQM Pop",
+            "sub_name": "",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_110": {
+            "id": 110,
+            "mode": "video",
+            "name": "HQM Latin",
+            "sub_name": "",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_111": {
+            "id": 111,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_112": {
+            "id": 112,
+            "mode": "video",
+            "name": "HQM Jazz",
+            "sub_name": "",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_113": {
+            "id": 113,
+            "mode": "video",
+            "name": "HQM Hits",
+            "sub_name": "",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_114": {
+            "id": 114,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_115": {
+            "id": 115,
+            "mode": "video",
+            "name": "HQM Gym",
+            "sub_name": "",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_116": {
+            "id": 116,
+            "mode": "video",
+            "name": "HQM Folk",
+            "sub_name": "",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_117": {
+            "id": 117,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_118": {
+            "id": 118,
+            "mode": "video",
+            "name": "HQM Classic",
+            "sub_name": "",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_119": {
+            "id": 119,
+            "mode": "video",
+            "name": "HQM Chill Out",
+            "sub_name": "",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_120": {
+            "id": 120,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_121": {
+            "id": 121,
+            "mode": "video",
+            "name": "HQM Baladas",
+            "sub_name": "",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_122": {
+            "id": 122,
+            "mode": "video",
+            "name": "HQM Arabic",
+            "sub_name": "",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_123": {
+            "id": 123,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_124": {
+            "id": 124,
+            "mode": "video",
+            "name": "Fibracat TV",
+            "sub_name": "",
+            "stream_video_url": "https://cdn02.fibracat.cat/fibracattv/index.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_125": {
+            "id": 125,
+            "mode": "video",
+            "name": "ETB Eventos 1",
+            "sub_name": "",
+            "stream_video_url": "https://etbvnogeo-lh.akamaihd.net/i/OCA1HD_1@748519/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_126": {
+            "id": 126,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_127": {
+            "id": 127,
+            "mode": "video",
+            "name": "Canal 56",
+            "sub_name": "",
+            "stream_video_url": "https://cdn01.yowi.tv/VI76V4AZS4/live-1000.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_56_img_2139.png"
+          },
+          "sub_128": {
+            "id": 128,
+            "mode": "video",
+            "name": "Canal 56",
+            "sub_name": "",
+            "stream_video_url": "https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_56_img_2139.png"
+          },
+          "sub_129": {
+            "id": 129,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_130": {
+            "id": 130,
+            "mode": "video",
+            "name": "El Futuro en tu mano",
+            "sub_name": "",
+            "stream_video_url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZSw3jfFZo_8I9BHSMlT2Fg/live",
+            "thumbnail_url": ""
+          },
+          "sub_131": {
+            "id": 131,
+            "mode": "video",
+            "name": "El Futuro en tu mano",
+            "sub_name": "",
+            "stream_video_url": "https://limited24.todostreaming.es/live/renjillo-livestream.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_132": {
+            "id": 132,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_133": {
+            "id": 133,
+            "mode": "video",
+            "name": "Diez TV",
+            "sub_name": "",
+            "stream_video_url": "https://streaming.cloud.innovasur.es/mmj/index.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_134": {
+            "id": 134,
+            "mode": "video",
+            "name": "Cuatro 4 TV Vall Uxa",
+            "sub_name": "",
+            "stream_video_url": "https://limited09.todostreaming.es/live/tarson-livestream.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_135": {
+            "id": 135,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_136": {
+            "id": 136,
+            "mode": "video",
+            "name": "Congreso de los Diputados 5",
+            "sub_name": "",
+            "stream_video_url": "https://congresodirecto-f.akamaihd.net/i/congreso5_1@51923/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_137": {
+            "id": 137,
+            "mode": "video",
+            "name": "Congreso de los Diputados 4",
+            "sub_name": "",
+            "stream_video_url": "https://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_138": {
+            "id": 138,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_139": {
+            "id": 139,
+            "mode": "video",
+            "name": "Congreso de los Diputados 2",
+            "sub_name": "",
+            "stream_video_url": "https://congresodirecto-f.akamaihd.net/i/congreso2_1@72033/master.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_140": {
+            "id": 140,
+            "mode": "video",
+            "name": "Radio Televisión Melilla",
+            "sub_name": "",
+            "stream_video_url": "https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_141": {
+            "id": 141,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_142": {
+            "id": 142,
+            "mode": "video",
+            "name": "Punt 3 Vall Uixó",
+            "sub_name": "",
+            "stream_video_url": "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_143": {
+            "id": 143,
+            "mode": "video",
+            "name": "Platzi TV",
+            "sub_name": "",
+            "stream_video_url": "https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_144": {
+            "id": 144,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_145": {
+            "id": 145,
+            "mode": "video",
+            "name": "Canal Málaga",
+            "sub_name": "",
+            "stream_video_url": "http://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_146": {
+            "id": 146,
+            "mode": "video",
+            "name": "Canal Málaga",
+            "sub_name": "",
+            "stream_video_url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_147": {
+            "id": 147,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_148": {
+            "id": 148,
+            "mode": "video",
+            "name": "Noroeste TV",
+            "sub_name": "",
+            "stream_video_url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_149": {
+            "id": 149,
+            "mode": "video",
+            "name": "Navarra TV",
+            "sub_name": "",
+            "stream_video_url": "https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_150": {
+            "id": 150,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_151": {
+            "id": 151,
+            "mode": "video",
+            "name": "Maestrat TV",
+            "sub_name": "",
+            "stream_video_url": "https://stream.maestrat.tv/hls/stream.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_152": {
+            "id": 152,
+            "mode": "video",
+            "name": "M95 Televisión Marbella",
+            "sub_name": "",
+            "stream_video_url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_153": {
+            "id": 153,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_154": {
+            "id": 154,
+            "mode": "video",
+            "name": "Cadena Elite",
+            "sub_name": "",
+            "stream_video_url": "https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/cadena_elite_img_2135.png"
+          },
+          "sub_155": {
+            "id": 155,
+            "mode": "video",
+            "name": "Cadena Elite",
+            "sub_name": "",
+            "stream_video_url": "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/cadena_elite_img_2135.png"
+          },
+          "sub_156": {
+            "id": 156,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_157": {
+            "id": 157,
+            "mode": "video",
+            "name": "La Urban TV",
+            "sub_name": "",
+            "stream_video_url": "https://urbanrevolution.es:8443/live/TV/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_158": {
+            "id": 158,
+            "mode": "video",
+            "name": "Distrito TV",
+            "sub_name": "",
+            "stream_video_url": "https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/distrito_tv_img_2151.png"
+          },
+          "sub_159": {
+            "id": 159,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_160": {
+            "id": 160,
+            "mode": "video",
+            "name": "Imás TV",
+            "sub_name": "",
+            "stream_video_url": "https://secure3.todostreaming.es/live/imastv-livestream.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_161": {
+            "id": 161,
+            "mode": "video",
+            "name": "Solidaria TV",
+            "sub_name": "",
+            "stream_video_url": "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_162": {
+            "id": 162,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_163": {
+            "id": 163,
+            "mode": "video",
+            "name": "RTVC",
+            "sub_name": "",
+            "stream_video_url": "https://rtvc-live1-rm.flumotion.com/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_164": {
+            "id": 164,
+            "mode": "video",
+            "name": "RTV Vida",
+            "sub_name": "",
+            "stream_video_url": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_165": {
+            "id": 165,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_166": {
+            "id": 166,
+            "mode": "video",
+            "name": "teve.cat",
+            "sub_name": "",
+            "stream_video_url": "https://limited35.todostreaming.es/live/mitjans-livestream.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_167": {
+            "id": 167,
+            "mode": "video",
+            "name": "Trece TV",
+            "sub_name": "",
+            "stream_video_url": "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_168": {
+            "id": 168,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_169": {
+            "id": 169,
+            "mode": "video",
+            "name": "tvG2",
+            "sub_name": "",
+            "stream_video_url": "https://events3-crtvg.flumotion.com/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_170": {
+            "id": 170,
+            "mode": "video",
+            "name": "Canal San Roque",
+            "sub_name": "",
+            "stream_video_url": "http://common01.todostreaming.es/live/sanroque-livestream.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_san_roque_img_2142.png"
+          },
+          "sub_171": {
+            "id": 171,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_172": {
+            "id": 172,
+            "mode": "video",
+            "name": "TVM Córdoba",
+            "sub_name": "",
+            "stream_video_url": "http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_173": {
+            "id": 173,
+            "mode": "video",
+            "name": "TVM Córdoba",
+            "sub_name": "",
+            "stream_video_url": "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8",
+            "thumbnail_url": ""
+          },
+          "sub_174": {
+            "id": 174,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_175": {
+            "id": 175,
+            "mode": "video",
+            "name": "Sophia TV",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/jyMedaF.png"
+          },
+          "sub_176": {
+            "id": 176,
+            "mode": "video",
+            "name": "Sophia TV",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/jyMedaF.png"
+          },
+          "sub_177": {
+            "id": 177,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_178": {
+            "id": 178,
+            "mode": "video",
+            "name": "Sophia TV",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/jyMedaF.png"
+          },
+          "sub_179": {
+            "id": 179,
+            "mode": "video",
+            "name": "Sophia TV",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8",
+            "thumbnail_url": "https://i.imgur.com/jyMedaF.png"
+          },
+          "sub_180": {
+            "id": 180,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_181": {
+            "id": 181,
+            "mode": "video",
+            "name": "Sophia TV",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv-it-live/livestream/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/jyMedaF.png"
+          },
+          "sub_182": {
+            "id": 182,
+            "mode": "video",
+            "name": "Sophia TV",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv-es-live/livestream/master.m3u8",
+            "thumbnail_url": "https://i.imgur.com/jyMedaF.png"
+          }
+        }
+      }
+    }
+  }
+}
