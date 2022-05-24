@@ -1,1 +1,126 @@
-{"TV_Data": {"Channel_List": {"is_channel_list": true, "is_override": true, "thumb_width": 150, "all_Channels_Tab_Name": "", "main": {"id": 0, "name": "Mexican Channels", "sub_name": "Channels", "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-mexico_748137.png", "sub": {"sub_1": {"id": 1, "mode": "video", "name": "Canal 10 Canc\u00fan", "sub_name": "", "stream_video_url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8", "thumbnail_url": "https://i.imgur.com/vakdxny.jpg"}, "sub_2": {"id": 2, "mode": "video", "name": "Canal Catorce", "sub_name": "", "stream_video_url": "https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8", "thumbnail_url": "https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200"}, "sub_3": {"id": 3, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 10000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg", "thumbnail_url_original": ""}, "sub_4": {"id": 4, "mode": "video", "name": "Multimedios Guadalajara", "sub_name": "", "stream_video_url": "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8", "thumbnail_url": "https://i.imgur.com/czXDdQC.jpg"}, "sub_5": {"id": 5, "mode": "video", "name": "Multimedios Laguna", "sub_name": "", "stream_video_url": "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8", "thumbnail_url": "https://i.imgur.com/czXDdQC.jpg"}, "sub_6": {"id": 6, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 20000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png", "thumbnail_url_original": ""}, "sub_7": {"id": 7, "mode": "video", "name": "Multimedios Monterrey", "sub_name": "", "stream_video_url": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8", "thumbnail_url": "https://i.imgur.com/czXDdQC.jpg"}, "sub_8": {"id": 8, "mode": "video", "name": "Multimedios Monterrey", "sub_name": "", "stream_video_url": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=https://www.multimedios.com", "thumbnail_url": "https://i.imgur.com/czXDdQC.jpg"}, "sub_9": {"id": 9, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 30000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png", "thumbnail_url_original": ""}, "sub_10": {"id": 10, "mode": "video", "name": "RTQ Queretaro", "sub_name": "", "stream_video_url": "http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8", "thumbnail_url": "https://i.imgur.com/H1AFRJh.png"}, "sub_11": {"id": 11, "mode": "video", "name": "Telemax", "sub_name": "", "stream_video_url": "http://s5.mexside.net:1935/telemax/telemax/.m3u8", "thumbnail_url": "https://i.imgur.com/bjGgLrA.jpg"}, "sub_12": {"id": 12, "mode": "website", "name_original": "", "name": "Play", "sub_name": "Win 40000", "website_url": "https://333.game.qureka.com", "is_system_browser": true, "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png", "thumbnail_url_original": ""}}}}}}
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 0,
+        "name": "Mexican Channels",
+        "sub_name": "Channels",
+        "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-mexico_748137.png",
+        "sub": {
+          "sub_1": {
+            "id": 1,
+            "mode": "video",
+            "name": "Canal 10 Cancún",
+            "sub_name": "",
+            "stream_video_url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/vakdxny.jpg"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "video",
+            "name": "Canal Catorce",
+            "sub_name": "",
+            "stream_video_url": "https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8",
+            "thumbnail_url": "https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "video",
+            "name": "Multimedios Guadalajara",
+            "sub_name": "",
+            "stream_video_url": "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8",
+            "thumbnail_url": "https://i.imgur.com/czXDdQC.jpg"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "video",
+            "name": "Multimedios Laguna",
+            "sub_name": "",
+            "stream_video_url": "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8",
+            "thumbnail_url": "https://i.imgur.com/czXDdQC.jpg"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "video",
+            "name": "Multimedios Monterrey",
+            "sub_name": "",
+            "stream_video_url": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8",
+            "thumbnail_url": "https://i.imgur.com/czXDdQC.jpg"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "video",
+            "name": "Multimedios Monterrey",
+            "sub_name": "",
+            "stream_video_url": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=https://www.multimedios.com",
+            "thumbnail_url": "https://i.imgur.com/czXDdQC.jpg"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "video",
+            "name": "RTQ Queretaro",
+            "sub_name": "",
+            "stream_video_url": "http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8",
+            "thumbnail_url": "https://i.imgur.com/H1AFRJh.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "video",
+            "name": "Telemax",
+            "sub_name": "",
+            "stream_video_url": "http://s5.mexside.net:1935/telemax/telemax/.m3u8",
+            "thumbnail_url": "https://i.imgur.com/bjGgLrA.jpg"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          }
+        }
+      }
+    }
+  }
+}
