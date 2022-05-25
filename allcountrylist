@@ -20,86 +20,84 @@
   },
   "records": [
     {
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/India.png?raw=true",
-        "country_name": "India",
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Indian%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/USA.Jpeg?raw=true",
-        "country_name": "USA",
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/USA%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Chinese.jpg?raw=true",
-        "country_name": "China",
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Chinese%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/France.jpeg?raw=true",
-        "country_name": "France",
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/French%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/germany-31017__340.jpeg?raw=true",
-        "country_name": "Germany",
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/German%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/russia.jpeg?raw=true",
-        "country_name": "Russia",
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Russian%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Spanish.jpg?raw=true",
-        "country_name": "Spain",
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Spanish%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/ukrain.png?raw=true",
-        "country_name": "Ukrain",
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Ukraine%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Arebic.jpeg?raw=true",
-        "country_name": "UAE",
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Arabic%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Brazil.jpg?raw=true",
-        "country_name": "Brazil",
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Brasilian%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/English.jpeg?raw=true",
-        "country_name": "England",
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/English%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Italy.jpg?raw=true",
-        "country_name": "Italy",
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Italian%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Mexican.jpg?raw=true",
-        "country_name": "Mexico",
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Mexican%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Netherland.jpg?raw=true",
-        "country_name": "Netherland",
-        "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Netherlands%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Portuguese.jpg?raw=true",
-        "country_name": "Portuguese",
-        "Links":"https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Portuguese%20Channels.json"
-      },
-      "fields": {
-        "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Turkish.png?raw=true",
-        "country_name": "Turkey",
-         "Links":"https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Turkish%20Channels.json"
-      }
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/India.png?raw=true",
+      "country_name": "India",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Indian%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/USA.Jpeg?raw=true",
+      "country_name": "USA",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/USA%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Chinese.jpg?raw=true",
+      "country_name": "China",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Chinese%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/France.jpeg?raw=true",
+      "country_name": "France",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/French%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/germany-31017__340.jpeg?raw=true",
+      "country_name": "Germany",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/German%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/russia.jpeg?raw=true",
+      "country_name": "Russia",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Russian%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Spanish.jpg?raw=true",
+      "country_name": "Spain",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Spanish%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/ukrain.png?raw=true",
+      "country_name": "Ukrain",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Ukraine%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Arebic.jpeg?raw=true",
+      "country_name": "UAE",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Arabic%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Brazil.jpg?raw=true",
+      "country_name": "Brazil",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Brasilian%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/English.jpeg?raw=true",
+      "country_name": "England",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/English%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Italy.jpg?raw=true",
+      "country_name": "Italy",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Italian%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Mexican.jpg?raw=true",
+      "country_name": "Mexico",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Mexican%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Netherland.jpg?raw=true",
+      "country_name": "Netherland",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Netherlands%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Portuguese.jpg?raw=true",
+      "country_name": "Portuguese",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Portuguese%20Channels.json"
+    },
+    {
+      "country_imageUrl": "https://github.com/pkbitcoding/iptv_channels/blob/main/allflag/Turkish.png?raw=true",
+      "country_name": "Turkey",
+      "Links": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Turkish%20Channels.json"
     }
   ]
 }
