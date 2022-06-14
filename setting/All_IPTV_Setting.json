@@ -29,6 +29,14 @@
 			"exit_title": "Exit",
 			"exit_message": "Do you want to exit from App?"
 		},
+		"About_App": {
+   	  		 "is_override": false,
+    			  "is_about_app": true,
+    			  "about_title": "About",
+    			  "about_message": "Air Horn Siren Sounds : Prank",
+    			  "registration_detail": "Air Horn Siren Sounds : Prank ® 2022",
+    			  "version_detail": "version : 1.0.7"
+ 		},
 		"rate_app": {
 			"is_rate_app": true,
 			"package_id": "com.yoyolive.llc",
