@@ -2,7 +2,7 @@
 	"com.iptv.m3u.playlists": {
 		
 		"ads_sequence": [
-			
+		"app_lovin"	
 		],
 		
 		"more_app_url": "https://play.google.com/store/apps/developer?id=Bit+Links",
@@ -11,8 +11,8 @@
 			"is_full_ads": false,
 			"onesignal_id": "7a4a06ab-fe34-4cba-8677-6a0a96aa1099",
 			"ads_loading_text": "Ads will loading...",
-			"global_intra_interval_click": 1,
-			"interstitial_ad_time_interval": 0
+			"global_intra_interval_click": 3,
+			"interstitial_ad_time_interval": 30
 		},
 		"app_update": {
 			"is_popup_dialog": false,
@@ -107,13 +107,13 @@
 			]
 		},
 		"app_lovin": {
-			"id_unit_banner": "97f8e7f0bd20c851",
-			"id_unit_intra": "a85ad52d5584a012",
+			"id_unit_banner": "c627779fcaa3cbe3",
+			"id_unit_intra": "11ca10e1407e8d0f",
 			"id_unit_native": "c9e5f467f320ff02",
-			"rewared_ads_unit_id": "5d248017bd59246b",
+			"rewared_ads_unit_id": "788e6826808014df",
 			"is_banner_ads": true,
 			"is_interstitial_ads": true,
-			"is_native_ads": true,
+			"is_native_ads": false,
 			"is_rewared_ads": true
 		},
 		"unity_ads": {
