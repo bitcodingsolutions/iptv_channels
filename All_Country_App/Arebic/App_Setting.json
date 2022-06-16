@@ -23,7 +23,7 @@
 			"is_system_browser": true,
 			"updated_version_code": 2,
 			"title": "App Update",
-			"default_message": "Your App is Up to date."
+			"default_message": "Your App needs an UPDATE!"
 		},
 		"exit_dialog": {
 			"is_exit_require": true,
