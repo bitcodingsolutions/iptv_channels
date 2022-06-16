@@ -30,7 +30,7 @@
 			"exit_message": "Do you want to exit from App?"
 		},
 		"About_App": {  	  
-            "is_about_app": true,
+            	"is_about_app": true,
     			  "about_title": "About",
     			  "about_message": "Arabic IPTV Links m3u Playlists",
     			  "registration_detail": "Arabic IPTV Links m3u Playlists",
