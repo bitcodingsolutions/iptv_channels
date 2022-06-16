@@ -7,6 +7,7 @@
 			
 			"more_app_url": "https://play.google.com/store/apps/developer?id=Bit+Links",
 			"extra_url": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Portuguese%20Channels.json",
+			"iptv_player_url": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Arabic%20Channels.json",
 			"ad_setting": {
 				"is_full_ads": false,
 				"onesignal_id": "4031a697-1e98-477d-9283-27375b51756e",
