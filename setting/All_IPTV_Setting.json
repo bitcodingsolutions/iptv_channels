@@ -2,7 +2,7 @@
 	"com.iptv.m3u.playlists": {
 		
 		"ads_sequence": [
-			
+			"google_ads"
 		],
 		
 		"more_app_url": "https://play.google.com/store/apps/developer?id=Bit+Links",
@@ -16,7 +16,7 @@
 		},
 		"app_update": {
 			"is_popup_dialog": false,
-			"is_update_require": true,
+			"is_update_require": false,
 			"package_id": "com.iptv.m3u.playlists",
 			"website_url": "playstore url",
 			"is_system_browser": true,
