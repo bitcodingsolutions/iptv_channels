@@ -9,7 +9,7 @@
 			"extra_url": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Indian%20Channels.json",
 			"iptv_player_url": "https://pocketiptv.page.link/H3Ed",
 			"ad_setting": {
-				"is_full_ads": false,
+				"is_full_ads": true,
 				"onesignal_id": "13ce13d8-28e8-49b8-863f-528ca9905cd0",
 				"ads_loading_text": "Ads will loading...",
 				"global_intra_interval_click": 3,
