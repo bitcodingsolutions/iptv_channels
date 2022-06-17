@@ -18,7 +18,7 @@
 			"app_update": {
 				"is_popup_dialog": true,
 				"is_update_require": true,
-				"package_id": "com.bitlinks.india.iptv.m3ulist",
+				"package_id": "com.yoyolive.llc",
 				"website_url": "playstore url",
 				"is_system_browser": true,
 				"updated_version_code": 2,
