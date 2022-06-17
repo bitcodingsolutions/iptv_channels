@@ -17,7 +17,7 @@
 			},
 			"app_update": {
 				"is_popup_dialog": true,
-				"is_update_require": false,
+				"is_update_require": true,
 				"package_id": "com.bitlinks.india.iptv.m3ulist",
 				"website_url": "playstore url",
 				"is_system_browser": true,
