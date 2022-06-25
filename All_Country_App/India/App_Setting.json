@@ -2,7 +2,7 @@
 		"com.bitlinks.india.iptv.m3ulist": {
 			
 			"ads_sequence": [
-				
+				"google_ads"
 			],
 			
 			"more_app_url": "https://play.google.com/store/apps/developer?id=Bit+Links",
@@ -71,17 +71,17 @@
 				"email_message": "Hi,\n\n\nYour Feedback IPTV : India IPTV Links m3u Playlists ! I would like to give you some feedback:"
 			},
 			"google_ads": {
-				"banner_ad_unit_id_android": "/6499/example/banner",
-				"interstitial_ad_unit_id_android": "/6499/example/interstitial",
-				"app_open_ad_unit_id_android": "/6499/example/app-open",
+				"banner_ad_unit_id_android": "ca-app-pub-1309792890285679/7195963500",
+				"interstitial_ad_unit_id_android": "ca-app-pub-1309792890285679/7186270932",
+				"app_open_ad_unit_id_android": "ca-app-pub-1309792890285679/2704100446",
 				"native_ads_unit_id_android": "/6499/example/native",
 				"native_video_ads_unit_id_android": "/6499/example/native-video",
-				"rewared_ads_unit_id": "/6499/example/rewarded",
+				"rewared_ads_unit_id": "ca-app-pub-1309792890285679/5521835473",
 				"is_banner_ads": true,
 				"is_open_ads": true,
 				"is_interstitial_ads": true,
 				"is_rewared_ads": true,
-				"is_native_ads": true,
+				"is_native_ads": false,
 				"no_of_click_interstitial": 1
 			},
 			"custom_ads": {
