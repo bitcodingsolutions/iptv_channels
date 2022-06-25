@@ -71,12 +71,12 @@
 			"email_message": "Hi,\n\n\nYour Feedback IPTV : World m3u playlists ! I would like to give you some feedback:"
 		},
 		"google_ads": {
-			"banner_ad_unit_id_android": "ca-app-pub-1309792890285679/7195963500",
-			"interstitial_ad_unit_id_android": "ca-app-pub-1309792890285679/7186270932",
-			"app_open_ad_unit_id_android": "ca-app-pub-1309792890285679/2704100446",
-			"native_ads_unit_id_android": "ca-app-pub-1309792890285679/7764855436",
-			"native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
-			"rewared_ads_unit_id": "ca-app-pub-1309792890285679/5521835473",
+			"banner_ad_unit_id_android": "/6499/example/banner",
+			"interstitial_ad_unit_id_android": "/6499/example/interstitial",
+			"app_open_ad_unit_id_android": "/6499/example/app-open",
+			"native_ads_unit_id_android": "/6499/example/native",
+			"native_video_ads_unit_id_android": "/6499/example/native-video",
+			"rewared_ads_unit_id": "/6499/example/rewarded",
 			"is_banner_ads": true,
 			"is_open_ads": true,
 			"is_interstitial_ads": true,
