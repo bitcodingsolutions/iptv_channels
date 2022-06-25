@@ -81,7 +81,7 @@
 		"rewared_ads_unit_id": "/6499/example/rewarded", 
 		"native_video_ads_unit_id_android": "/6499/example/native-video", 
 		"is_banner_ads": true,
-		"is_open_ads": false,
+		"is_open_ads": true,
 		"is_interstitial_ads": true,
 		"is_rewared_ads": true,
 		"is_native_ads": true,
