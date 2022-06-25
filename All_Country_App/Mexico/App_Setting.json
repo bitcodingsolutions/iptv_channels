@@ -1,129 +1,129 @@
-{
-		"com.bitlinks.maxico.iptv.m3ulist": {
-			
-			"ads_sequence": [
-				"google_ads"
-			],
-			
-			"more_app_url": "https://play.google.com/store/apps/developer?id=Bit+Links",
-			"extra_url": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Mexican%20Channels.json",
-			"iptv_player_url": "https://pocketiptv.page.link/H3Ed",
-			"ad_setting": {
-				"is_full_ads": false,
-				"onesignal_id": "b247a816-e49b-426a-bc80-81600eea3ba0",
-				"ads_loading_text": "Ads will loading...",
-				"global_intra_interval_click": 3,
-				"interstitial_ad_time_interval": 10
-			},
-			"app_update": {
-				"is_popup_dialog": true,
-				"is_update_require": false,
-				"package_id": "com.bitlinks.maxico.iptv.m3ulist",
-				"website_url": "playstore url",
-				"is_system_browser": true,
-				"updated_version_code": 2,
-				"title": "App Update",
-				"default_message": "Your App is Up to date."
-			},
-			"exit_dialog": {
-				"is_exit_require": true,
-				"exit_title": "Exit",
-				"exit_message": "Do you want to exit from App?"
-			},
-			"About_App": {  	  
-	            	"is_about_app": true,
-	    			  "about_title": "About",
-	    			  "about_message": "Maxico IPTV Links m3u Playlists",
-	    			  "registration_detail": "Maxico IPTV Links m3u Playlists",
-	    			  "version_detail": "version : 1.0.0"
-	 		},
-			"rate_app": {
-				"is_rate_app": true,
-				"package_id": "com.bitlinks.maxico.iptv.m3ulist",
-				"rate_app_url": "https://play.google.com/store/apps/details?id=com.bitlinks.maxico.iptv.m3ulist",
-				"rate_message": "Please Rate us and promote us."
-			},
-			"share_app": {
-				"is_share_app": true,
-				"share_title": "Share link url :https://play.google.com/store/apps/details?id=com.bitlinks.maxico.iptv.m3ulist",
-				"share_message": "Now anyone can get IPTV list of Maxico Channels from : https://play.google.com/store/apps/details?id=com.bitlinks.maxico.iptv.m3ulist"
-			},
-			"privacy_policy": {
-				"is_privacy_policy": true,
-				"is_system_browser": true,
-				"privacy_policy": "https://pages.flycricket.io/maxico-iptv-links-m3-0/privacy.html"
-			},
-			"terms_of_use": {
-				"is_terms_of_use": true,
-				"is_system_browser": true,
-				"terms_of_use": "https://pages.flycricket.io/maxico-iptv-links-m3-0/privacy.html"
-			},
-			"error_report": {
-				"is_error_report_support": true,
-				"email_id": "mailto:bitlinks.llc@gmail.com"
-			},
-			"feedback_support": {
-				"is_feedback_support": true,
-				"email_id": "mailto:bitlinks.llc@gmail.com",
-				"feedback_title": "Feedback on IPTV : Maxico m3u playlists",
-				"feedback_message": "Hi,\n\n\nYour Feedback Maxico IPTV Links m3u Playlists! I would like to give you some feedback:",
-				"email_subject": "Feedback on IPTV : Maxico IPTV Links m3u Playlists",
-				"email_message": "Hi,\n\n\nYour Feedback IPTV : Maxico IPTV Links m3u Playlists ! I would like to give you some feedback:"
-			},
-			"google_ads": {
-				"banner_ad_unit_id_android": "/6499/example/banner",
-				"interstitial_ad_unit_id_android": "/6499/example/interstitial",
-				"app_open_ad_unit_id_android": "/6499/example/app-open",
-				"native_ads_unit_id_android": "/6499/example/native",
-				"native_video_ads_unit_id_android": "/6499/example/native-video",
-				"rewared_ads_unit_id": "/6499/example/rewarded",
-				"is_banner_ads": true,
-				"is_open_ads": true,
-				"is_interstitial_ads": true,
-				"is_rewared_ads": true,
-				"is_native_ads": true,
-				"no_of_click_interstitial": 1
-			},
-			"custom_ads": {
-				"qureka_link": "https://490.go.qureka.com/intro/question",
-				"is_quraka_banner": true,
-				"is_quraka_intera": true,
-				"close_button_to_direct_web": true,
-				"quraka_intra_image": [
-					"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_1.png?raw=true",
-					"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_2.png?raw=true",
-					"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_3.png?raw=true",
-					"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_4.png?raw=true",
-					"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_5.png?raw=true",
-					"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_6.png?raw=true"
-				],
-				"quraka_banner_image": [
-					"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/2.jpg?raw=true",
-					"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/3.jpg?raw=true",
-					"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/320x50.jpg?raw=true",
-					"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/4.jpg?raw=true",
-					"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/5.jpg?raw=true",
-					"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
-				]
-			},
-			"app_lovin": {
-				"id_unit_banner": "c627779fcaa3cbe3",
-				"id_unit_intra": "11ca10e1407e8d0f",
-				"id_unit_native": "c9e5f467f320ff02",
-				"rewared_ads_unit_id": "788e6826808014df",
-				"is_banner_ads": true,
-				"is_interstitial_ads": true,
-				"is_native_ads": false,
-				"is_rewared_ads": true
-			},
-			"unity_ads": {
-				"game_id": "4737797",
-				"is_intra_ads": true,
-				"is_banner_ads": true,
-				"is_rewared_ads": true
-			}
-			
-		}	
+{		
+	"com.bitlinks.maxico.iptv.m3ulist": 	
+	{	
 		
-	}
-
+	"ads_sequence": [	
+		"google_ads"
+		
+	],	
+	"more_app_url": "https://play.google.com/store/apps/developer?id=Bit+Links", 	
+	"extra_url": "https://raw.githubusercontent.com/pkbitcoding/iptv_channels/main/Mexican%20Channels.json", 	
+	"iptv_player_url": "com.pocketiptv",	
+	"ad_setting": {	
+		"is_full_ads": false,
+		"onesignal_id": "07de0128-c4bc-45f0-8baa-6867a262a6b7", 
+		"ads_loading_text": "Ads will loading...",
+		"global_intra_interval_click": 1,
+		"interstitial_ad_time_interval": 0
+	},	
+	"app_update": {	
+		"is_popup_dialog": true,
+		"is_update_require": false,
+		"package_id": "com.bitlinks.maxico.iptv.m3ulist", 
+		"website_url": "https://iptvm3uplay.blogspot.com/", 
+		"app_icon": "https://play-lh.googleusercontent.com/8mPNKodK65zCjQHS8aqF4o0cX9YlKZYN-3qYCd9oMlcTkGaAf_3AxB0vnE9Kud6bPw=w240-h480-rw",
+		"updated_version_code": 50,
+		"title": "App Update",
+		"default_message": "Your App need an update."
+	},	
+	"exit_dialog": {	
+		"is_exit_require": true,
+		"exit_title": "Exit",
+		"exit_message": "Do you want to exit from App?"
+	},	
+	"About_App": {	
+		"is_override": false,
+		"is_about_app": true,
+		"about_title": "Maxico IPTV Links m3u Playlists", 
+		"about_message": "Your app need an Update!",
+		"registration_detail": "Maxico IPTV Links m3u Playlists", 
+		"version_detail": "version : 1.0.0"
+	},	
+	"rate_app": {	
+		"is_rate_app": true,
+		"package_id": "com.bitlinks.maxico.iptv.m3ulist", 
+		"rate_app_url": "https://play.google.com/store/apps/details?id=com.bitlinks.maxico.iptv.m3ulist", 
+		"rate_message": "Please Rate us and promote us."
+	},	
+	"share_app": {	
+		"is_share_app": true,
+		"share_title": "Share link url :https://play.google.com/store/apps/details?id=com.bitlinks.maxico.iptv.m3ulist", 
+		"share_message": "Now anyone can get Maxico IPTV Links m3u Playlists app : https://play.google.com/store/apps/details?id=com.bitlinks.maxico.iptv.m3ulist" 
+	},	
+	"privacy_policy": {	
+		"is_privacy_policy": true,
+		"is_system_browser": true,
+		"privacy_policy": "https://pages.flycricket.io/maxico-iptv-links-m3-0/privacy.html" 
+	},	
+	"terms_of_use": {	
+		"is_terms_of_use": true,
+		"is_system_browser": true,
+		"terms_of_use": "https://pages.flycricket.io/maxico-iptv-links-m3-0/privacy.html" 
+	},	
+	"error_report": {	
+		"is_error_report_support": true,
+		"email_id": "mailto:bitlinks.llc@gmail.com"
+	},	
+	"feedback_support": {	
+		"is_feedback_support": true,
+		"email_id":"mailto:bitlinks.llc@gmail.com",
+		"feedback_title": "Feedback on Maxico IPTV Links m3u Playlists",
+		"feedback_message": "Hi,\n\n\nYour Feedback Maxico IPTV Links m3u Playlists! I would like to give you some feedback:",
+		"email_subject": "Feedback on Maxico IPTV Links m3u Playlists",
+		"email_message": "Hi,\n\n\nYour Feedback Maxico IPTV Links m3u Playlists! I would like to give you some feedback:"
+		
+	},	
+	"google_ads": {	
+		"banner_ad_unit_id_android": "/6499/example/banner", 
+		"interstitial_ad_unit_id_android": "/6499/example/interstitial", 
+		"app_open_ad_unit_id_android": "/6499/example/app-open", 
+		"native_ads_unit_id_android": "/6499/example/native", 
+		"rewared_ads_unit_id": "/6499/example/rewarded", 
+		"native_video_ads_unit_id_android": "/6499/example/native-video", 
+		"is_banner_ads": true,
+		"is_open_ads": true,
+		"is_interstitial_ads": true,
+		"is_rewared_ads": true,
+		"is_native_ads": true,
+		"no_of_click_interstitial": 1
+	},	
+	"custom_ads": {	
+		"qureka_link": "https://490.go.qureka.com/intro/question",
+		"is_quraka_banner": true,
+		"is_quraka_intera": true,
+		"close_button_to_direct_web": true,
+		"quraka_intra_image": [
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_1.png?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_2.png?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_3.png?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_4.png?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_5.png?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_6.png?raw=true"
+	],	
+	"quraka_banner_image": [	
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/2.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/3.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/320x50.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/4.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/5.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
+	]	
+	},	
+	"app_lovin": {	
+		"id_unit_banner": "c627779fcaa3cbe3",
+		"id_unit_intra": "11ca10e1407e8d0f",
+		"id_unit_native": "c9e5f467f320ff02",
+		"rewared_ads_unit_id": "788e6826808014df",
+		"is_banner_ads": true,
+		"is_interstitial_ads": true,
+		"is_native_ads": false,
+		"is_rewared_ads": true
+	},	
+	"unity_ads": {	
+		"game_id": "4737797",
+		"is_intra_ads": true,
+		"is_banner_ads": true,
+		"is_rewared_ads": true
+	}	
+	}	
+}		
