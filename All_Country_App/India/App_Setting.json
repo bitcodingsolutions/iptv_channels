@@ -17,7 +17,7 @@
 		"interstitial_ad_time_interval": 0
 	},	
 	"app_update": {	
-		"is_popup_dialog": true,
+		"is_popup_dialog": false,
 		"is_update_require": false,
 		"package_id": "com.bitlinks.india.iptv.m3ulist", 
 		"website_url": "https://iptvm3uplay.blogspot.com/", 
