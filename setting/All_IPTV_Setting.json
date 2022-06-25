@@ -2,7 +2,7 @@
 	"com.iptv.m3u.playlists": {
 		
 		"ads_sequence": [
-			
+			"google_ads"
 		],
 		
 		"more_app_url": "https://play.google.com/store/apps/developer?id=Bit+Links",
@@ -19,7 +19,7 @@
 			"is_update_require": false,
 			"package_id": "com.iptv.m3u.playlists",
 			"website_url": "playstore url",
-			"is_system_browser": true,
+			"app_icon": "ca-app-pub-1309792890285679/9880070230",
 			"updated_version_code": 50,
 			"title": "App Update",
 			"default_message": "Your App is Up to date."
