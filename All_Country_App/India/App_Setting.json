@@ -74,9 +74,9 @@
 		
 	},	
 	"google_ads": {	
-		"banner_ad_unit_id_android": "/6499/example/banner", 
-		"interstitial_ad_unit_id_android": "/6499/example/interstitial", 
-		"app_open_ad_unit_id_android": "/6499/example/app-open", 
+		"banner_ad_unit_id_android": "ca-app-pub-1309792890285679/6940886016", 
+		"interstitial_ad_unit_id_android": "ca-app-pub-1309792890285679/2288143370", 
+		"app_open_ad_unit_id_android": "ca-app-pub-1309792890285679/1688559331", 
 		"native_ads_unit_id_android": "/6499/example/native", 
 		"rewared_ads_unit_id": "/6499/example/rewarded", 
 		"native_video_ads_unit_id_android": "/6499/example/native-video", 
