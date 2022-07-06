@@ -3,7 +3,7 @@
 	{	
 		
 	"ads_sequence": [	
-		"google_ads"
+		"app_lovin"
 		
 	],	
 	"more_app_url": "https://play.google.com/store/apps/developer?id=Bit+Links", 	
@@ -110,8 +110,8 @@
 	]	
 	},	
 	"app_lovin": {	
-		"id_unit_banner": "c627779fcaa3cbe3",
-		"id_unit_intra": "11ca10e1407e8d0f",
+		"id_unit_banner": "782265b71f78b353",
+		"id_unit_intra": "77790b121fd3d610",
 		"id_unit_native": "c9e5f467f320ff02",
 		"rewared_ads_unit_id": "788e6826808014df",
 		"is_banner_ads": true,
