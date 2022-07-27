@@ -2,7 +2,8 @@
 	"com.iptv.m3u.playlists": 	
 	{	
 		
-	"ads_sequence": [	
+	"ads_sequence": [
+		"google_ads",
 		"app_lovin"
 		
 	],	
@@ -74,16 +75,16 @@
 		
 	},	
 	"google_ads": {	
-		"banner_ad_unit_id_android": "ca-app-pub-1309792890285679/8909392042", 
-		"interstitial_ad_unit_id_android": "ca-app-pub-1309792890285679/8570480695", 
-		"app_open_ad_unit_id_android": "ca-app-pub-1309792890285679/7515601088", 
-		"native_ads_unit_id_android": "/6499/example/native", 
-		"rewared_ads_unit_id": "ca-app-pub-1309792890285679/5521835473", 
-		"native_video_ads_unit_id_android": "/6499/example/native-video", 
+		"banner_ad_unit_id_android": "/21798997504/ace_app_bitcoding_com.iptv.m3u.playlists_banner", 
+		"interstitial_ad_unit_id_android": "/21798997504/ace_app_bitcoding_com.iptv.m3u.playlists_interestitial", 
+		"app_open_ad_unit_id_android": "/21798997504/ace_app_bitcoding_com.iptv.m3u.playlists_appopen", 
+		"native_ads_unit_id_android": "/21798997504/ace_app_bitcoding_com.iptv.m3u.playlists_native", 
+		"rewared_ads_unit_id": "/21798997504/ace_app_bitcoding_com.iptv.m3u.playlists_interestitial", 
+		"native_video_ads_unit_id_android": "/21798997504/ace_app_bitcoding_com.iptv.m3u.playlists_native", 
 		"is_banner_ads": true,
 		"is_open_ads": true,
 		"is_interstitial_ads": true,
-		"is_rewared_ads": false,
+		"is_rewared_ads": true,
 		"is_native_ads": false,
 		"no_of_click_interstitial": 1
 	},	
